@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoApplication",
+            "request": "launch",
+            "mainClass": "nl.devoteam.cdcswagger.DemoApplication",
+            "projectName": "cdc-swagger"
+        }
+    ]
+}
